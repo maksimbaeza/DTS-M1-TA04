@@ -1,0 +1,220 @@
+
+body {
+ 
+     background: #99B2DD;
+     width: 1000px;
+     height: 1200px;
+}
+
+.texto .titulo {
+
+     width: 1000px;
+     color: #FFFFFF;
+     font-family: 'Noto Sans Mono', monospace;
+     font-size: 35px;
+     position: static;
+     margin-top: 100px;
+     margin-left: 400px;
+
+}
+
+
+.chile {
+
+padding: 20px;
+
+}
+
+.chile .base-0 {
+
+ 	width: 500px;
+	height: 300px;
+	background: #FFFFFF;
+	position: absolute;
+
+}
+
+
+.chile .franja-0 {
+
+ 	width: 500px;
+	height: 150px;  
+	background: #A41623;
+	position: absolute; 
+	margin-top: 150px;  
+
+}
+
+
+.chile .cuadradoazul-0 {
+
+	background: #125E8A; 
+	width: 200px;
+	height: 150px;
+	position: absolute;
+	margin-top: 0px;
+
+}
+
+
+.japon .base-1 {
+
+ 	width: 500px;
+	height: 300px;
+	background: #FFFFFF;
+	position: absolute;
+	margin-top: 200px
+
+}
+
+.grecia .base-2 {
+
+ 	width: 500px;
+	height: 300px;
+	background: #FFFFFF;
+	position: relative;
+	margin-top: 350px
+
+}
+
+.grecia .franja-1 {
+
+ 	width: 333.5px;
+	height: 33.3px;
+	background: #246CD2;
+	position: relative;
+	margin-top: 0px;
+	margin-left: 166.5px;
+
+
+
+}
+
+.grecia .franja-2 {
+
+ 	width: 333.5px;
+	height: 33.3px;
+	background: #246CD2;
+	position: absolute;
+	margin-top: 66.6px;	
+
+}
+
+.grecia .franja-3 {
+
+ 	width: 333.5px;
+	height: 33.3px;
+	background: #246CD2;
+	position: absolute;
+	margin-top: 66.6px;		
+
+}
+
+.grecia .franja-4 {
+
+ 	width: 500px;
+	height: 33.3px;
+	background: #246CD2;
+	position: absolute;
+	margin-top: 66.6px;
+	margin-left: -166.5px;		
+
+}
+
+.grecia .franja-5 {
+
+ 	width: 500px;
+	height: 33.3px;
+	background: #246CD2;
+	position: absolute;
+	margin-top: 66.6px;
+	
+
+}
+
+.grecia .cuadradoazul-1 {
+
+	background: #246CD2; 
+	width: 66.6px;
+	height: 66.6px;
+	position: absolute;
+	margin-top: -266px;
+	margin-left: 0px;
+
+}
+
+.grecia .cuadradoazul-2 {
+
+	background: #246CD2; 
+	width: 66.6px;
+	height: 66.6px;
+	position: absolute;
+	margin-top: 0px;
+	margin-left: 99.9px;
+
+}
+
+.grecia .cuadradoazul-3 {
+
+	background: #246CD2; 
+	width: 66.6px;
+	height: 66.6px;
+	position: absolute;
+	margin-top: 99.9px;
+	margin-left: -99.9px;
+
+}
+
+.grecia .cuadradoazul-4 {
+
+	background: #246CD2; 
+	width: 66.6px;
+	height: 66.6px;
+	position: absolute;
+	margin-top: 0px;
+	margin-left: 99.9px;
+
+}
+
+.imagenes .chile {
+
+	position: absolute;
+	margin-top: -790px;
+	margin-left: -70px;
+}
+
+.imagenes .japon {
+
+	position: absolute;
+	margin-top: 300px;
+	margin-left: 125px;
+}
+
+.enlaces {
+
+     font-family: 'Noto Sans Mono', monospace;
+     position: absolute;
+
+}
+
+.enlaces .chile {
+
+     width: 1000px;
+	position: absolute;
+	margin-top: -280px;
+	margin-left: -100px;
+}
+
+.enlaces .japon {
+
+	position: absolute;
+	margin-top: 330px;
+	margin-left: 0px;
+}
+
+.enlaces .grecia {
+
+     width: 1000px;
+	position: absolute;
+	margin-top: 330px;
+}
